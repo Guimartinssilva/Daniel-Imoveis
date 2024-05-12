@@ -1,0 +1,63 @@
+/* Roboto */
+.font-1-r1{
+  font: 400 1.125rem/1.35 "Roboto", sans-serif;
+}
+
+.font-1-r2{
+    font: 400 2rem/1.25 "Roboto", sans-serif ;
+}
+
+.font-1-r3{
+    font: 400 1.125rem/1.8 "Roboto", sans-serif;
+}
+
+.font-1-m1{
+    font: 500 2rem/1.5 "Roboto", sans-serif; 
+}
+
+.font-1-m2{
+    font: 500 0.75rem/1.35 "Roboto", sans-serif;
+}
+
+.font-1-b{
+    font: 700 0.75rem/1.35 "Roboto", sans-serif  ;
+}
+
+
+/* Poppins */
+.font-2-r{
+    font: 400 0.75rem/1.35 "Poppins", sans-serif;    
+}
+
+.font-2-m{
+    font: 500 2rem/1.5 "Poppins", sans-serif;
+}
+
+.font-2-sb1{
+    font: 600 4rem/1.125 "Poppins", sans-serif;
+}
+
+.font-2-sb2{
+    font: 600 1.125rem/1.35 "Poppins", sans-serif;
+}
+
+.font-2-sb3{
+    font: 600 3rem/1.2 "Poppins", sans-serif;
+}
+
+.font-2-b1{
+    font: 700 1.25rem/1.2 "Poppins", sans-serif;
+}
+
+.font-2-b2{
+    font: 700 0.75rem/1.35 "Poppins", sans-serif;
+}
+
+
+/* PlayFair Display */ 
+.font-3-b1{
+    font: 700 2rem/1.25 "PlayFair Display", sans-serif;
+}
+.font-3-b2{
+    font: 700 2rem/1.5 "PlayFair Display", sans-serif; 
+}
