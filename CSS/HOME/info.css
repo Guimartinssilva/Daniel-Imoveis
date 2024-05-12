@@ -1,0 +1,13 @@
+.info-bg{
+    background-color: var(--cor-p3);
+    color: var(--cor-0);
+}
+
+.info{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    padding: 20px;
+}
