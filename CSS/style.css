@@ -4,6 +4,7 @@
 /* HOME */
 @import "./HOME/info.css";
 @import "./HOME/introducao.css";
+@import "./HOME/lista_imoveis.css";
 
 /* UTILIDADES */
 @import "./UTILIDADES/animacao.css";

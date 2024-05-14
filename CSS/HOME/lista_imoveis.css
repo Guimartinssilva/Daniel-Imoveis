@@ -1,0 +1,76 @@
+.imoveis-lista-bg{
+    padding-top: 60px;
+}
+
+.imoveis-lista-bg h2{
+    text-transform: uppercase;
+}
+
+.imoveis-lista{
+    display: flex;
+    gap: 40px;
+    margin: 40px 70px 0px 70px ;
+}
+
+.imoveis-lista img{
+    border-radius: 4px 4px 0px 0px;
+}
+
+.imoveis-img{
+    position: relative;
+}
+
+.imoveis-img span{
+    display: inline-block;
+    background-color: var(--cor-4);
+    padding: 2px 4px;
+    position: absolute;
+    top: 36px;
+    border-radius: 0px 4px 4px 0px;
+}
+
+.lista{
+    background-color: var(--cor-1);
+    border-radius: 0px 0px 4px 4px;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.lista p{
+    margin: 40px 0px 24px 0px;
+}
+
+.lista span{
+    padding-bottom: 24px;
+    grid-column: span 2;
+    justify-self: center;
+}
+
+.pontos{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding-top: 24px;
+}
+
+#ponto1{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: var(--cor-p4);
+}
+
+#ponto2,
+#ponto3,
+#ponto4,
+#ponto5,
+#ponto6{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: var(--cor-5);
+}
