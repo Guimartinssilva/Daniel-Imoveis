@@ -9,6 +9,7 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 40px;
   margin: 0 auto;
+  padding-top: 40px;
 }
 
 .localizacao-lista img{

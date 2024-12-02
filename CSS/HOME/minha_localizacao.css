@@ -1,0 +1,23 @@
+.meuLocal{
+    padding-top: 60px;
+    padding-bottom: 120px;
+    text-transform: uppercase;
+}
+
+.meuLocal h2{
+    padding-bottom: 40px;
+}
+
+.meuLocal img{
+    width: 1160px;
+    height: 344px;
+    border-radius: 4px 4px 0px 0px;
+}
+
+.meuLocal a{
+    background: linear-gradient(#459d00, #295e00);
+    border-radius: 0px 0px 4px 4px;
+    padding: 5px 0px 5px 0px;
+    display: flex;
+    justify-content: center;
+}

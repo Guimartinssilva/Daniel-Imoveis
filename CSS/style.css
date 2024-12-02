@@ -6,6 +6,7 @@
 @import "./HOME/introducao.css";
 @import "./HOME/lista_imoveis.css";
 @import "./HOME/lista_localizacao.css";
+@import "./HOME/minha_localizacao.css";
 
 /* UTILIDADES */
 @import "./UTILIDADES/animacao.css";
